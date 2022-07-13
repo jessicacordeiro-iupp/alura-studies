@@ -37,7 +37,7 @@ Esta aplicação é um projeto desenvolvido no curso de React: escrevendo com Ty
 ##### Passo 1: Clonando o repositório
 
 ```bash
-git clone
+git clone git@github.com:jessicacordeiro-iupp/alura-studies.git
 ```
 
 ##### Passo 2: Acessando a pasta do projeto
