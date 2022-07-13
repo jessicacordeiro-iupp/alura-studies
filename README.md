@@ -1,46 +1,79 @@
-# Getting Started with Create React App
+<p align="center">
+  <br>
+  <Img src="https://i.imgur.com/icaTzjG.png" width=600/>
+  
+  <h4 align="center"> Foque nos seus estudos estipulando suas tarefas no tempo que desejar 👩‍💻 </h4>
+  
+  <p align="center">
+    <img src="https://img.shields.io/static/v1?label=Status&message=Conclu%C3%ADdo&color=brightgreen&style=flat&labelColor=3E3E3E">
+    <img src="https://img.shields.io/static/v1?message=Alura&label=ReactJS&color=informational&style=flat&logo=react&labelColor=021026">
+  </p>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Detalhes do projeto :memo:
 
-## Available Scripts
+<p align="justify">
+Esta aplicação é um projeto desenvolvido no curso de React: escrevendo com Typescript.
+</p>
 
-In the project directory, you can run:
+## Funcionalidades :stars:
 
-### `npm start`
+✔️ Enviar tarefas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+✔️ Estipular um tempo para as tarefas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+✔️ Adicionar a tarefa no temporizador e quando finalizar o tempo dar a tarefa como concluída
 
-### `npm test`
+## Layout 🎨
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center" justify="">
+    <Img src="https://i.imgur.com/X2VrxzR.png" >
+</p>
 
-### `npm run build`
+## Veja você mesmo :arrow_forward:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### :small_blue_diamond: Na própria máquina - Passo-a-passo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##### Passo 1: Clonando o repositório
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone
+```
 
-### `npm run eject`
+##### Passo 2: Acessando a pasta do projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+cd alura-studies
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+##### Passo 3: Instalando as dependências com npm ou Yarn
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+# Utilizando npm
+npm install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Utilizando Yarn
+yarn
+```
 
-## Learn More
+##### Passo 4: Executando o projeto com npm ou Yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Utilizando npm
+npm run dev
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Utilizando Yarn
+yarn dev
+
+# O projeto deverá ser iniciado na porta 3000
+```
+
+##### Passo 5: Vizualizando o projeto
+
+Acesse: http://localhost:3000
+
+## Tecnologias :books:
+
+- [Typescript](https://www.typescriptlang.org)
+- [ReactJS](https://pt-br.reactjs.org)
+- [Sass Modules](https://create-react-app.dev/docs/adding-a-sass-stylesheet/)
